@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17041" started-at="2023-04-05T21:32:15 IST" finished-at="2023-04-05T21:32:32 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17041" started-at="2023-04-05T21:32:15 IST" finished-at="2023-04-05T21:32:32 IST">
+      <class name="testScripts.Test17">
+        <test-method status="PASS" signature="classConfiguration()[pri:0, instance:testScripts.Test17@eafc191]" name="classConfiguration" is-config="true" duration-ms="10308" started-at="2023-04-05T21:32:15 IST" finished-at="2023-04-05T21:32:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classConfiguration -->
+        <test-method status="PASS" signature="methodConfiguration()[pri:0, instance:testScripts.Test17@eafc191]" name="methodConfiguration" is-config="true" duration-ms="1243" started-at="2023-04-05T21:32:26 IST" finished-at="2023-04-05T21:32:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodConfiguration -->
+        <test-method status="PASS" signature="tc_it_003()[pri:0, instance:testScripts.Test17@eafc191]" name="tc_it_003" duration-ms="4779" started-at="2023-04-05T21:32:27 IST" finished-at="2023-04-05T21:32:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_it_003 -->
+        <test-method status="PASS" signature="methodTearDown()[pri:0, instance:testScripts.Test17@eafc191]" name="methodTearDown" is-config="true" duration-ms="0" started-at="2023-04-05T21:32:32 IST" finished-at="2023-04-05T21:32:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTearDown -->
+        <test-method status="PASS" signature="classTearDown()[pri:0, instance:testScripts.Test17@eafc191]" name="classTearDown" is-config="true" duration-ms="658" started-at="2023-04-05T21:32:32 IST" finished-at="2023-04-05T21:32:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTearDown -->
+      </class> <!-- testScripts.Test17 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
